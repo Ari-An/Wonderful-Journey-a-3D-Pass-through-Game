@@ -1,6 +1,10 @@
 # Wonderful-Journey-a-3D-Pass-through-Game
-The game is developed by Blender. In this game, the rabbit surmounts numerous dangers and difficulties,  continues to own the defeats, and heads for the victory!
+The game is developed by Blender. 
+In this game, the rabbit surmounts numerous dangers and difficulties, continues to own the defeats, and heads for the victory!
+
 ![IMB_2M68tx](https://user-images.githubusercontent.com/80992271/111856366-905dbe00-8900-11eb-9c32-67675f5601ea.gif)
+
+
 
 It contains Three Levels and the scenes are shown below.
 ![461493006110661281](https://user-images.githubusercontent.com/80992271/111856383-a9666f00-8900-11eb-8cb2-47e3427566b1.png)
